@@ -1,17 +1,6 @@
 # rohan
 Reviews of games and features on different gaming apps
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Top11 India Game Reviews</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 2rem; max-width: 800px; margin: auto; background: #f9f9f9; }
-    h1 { color: #e63946; }
-    a { color: #1d3557; }
-  </style>
-</head>
-<body>
+
   <h1>Top11 India – Honest Game Reviews (2025)</h1>
   <p>Welcome! Here you'll find honest reviews of real money games available on <strong>Top11 India</strong>.</p>
 
