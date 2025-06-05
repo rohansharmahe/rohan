@@ -14,6 +14,6 @@ Reviews of games and features on different gaming apps
   <p><strong>Verdict:</strong> 4/5 – Unique theme, good bonuses, and fun animations.</p>
   <p><a href="https://top11india.com" target="_blank">Top11 India</a></p>
 
-  <p style="margin-top:2rem; font-size: 0.9em;">Disclaimer: This site is an independent review page. Some links may be affiliate links.</p>
+  <p style="margin-top:2rem; font-size: 0.9em;">Disclaimer: This site is an independent review page.</p>
 </body>
 </html>
